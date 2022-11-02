@@ -26,4 +26,4 @@
     - Поиск по категориям
     - Поиск по названию объявления
     - Сортировка по следующим пунктам: “цена, дата выпуска/постройки, район и тд.”
-<img width="968" alt="Снимок экрана 2022-10-28 в 22 46 55" src="https://user-images.githubusercontent.com/91777760/198720567-9dfb8fa7-7d98-4d17-a7cb-61f204c2b848.png">
+<img width="881" alt="Screenshot 2022-11-02 at 9 23 50 a m" src="https://user-images.githubusercontent.com/91777760/199413780-c3d7dde6-137f-466b-9486-06acdf518bf3.png">
